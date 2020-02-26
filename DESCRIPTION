@@ -1,13 +1,13 @@
 Package: mdsToyCG
-Title: What the Package Does (One Line, Title Case)
+Title: fbind Toy Package
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Cari",
+           family = "Gostic",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "cari.gostic@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Contains a single function called fbind that catenates 2 factors containing characters in an intuitive way.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
