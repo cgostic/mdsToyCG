@@ -18,11 +18,8 @@ care and feeding of factors.
 
 ## Installation
 
-You can install the released version of mdsToyCG from
-[CRAN](https://CRAN.R-project.org) with:
-
 ``` r
-install.packages("mdsToyCG")
+devtools::install_github("cgostic/mdsToyCG")
 ```
 
 ### Quick demo

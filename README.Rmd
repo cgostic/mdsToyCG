@@ -24,10 +24,8 @@ Factors are a very useful type of variable in R, but they can also be very aggra
 
 ## Installation
 
-You can install the released version of mdsToyCG from [CRAN](https://CRAN.R-project.org) with:
-
 ``` r
-install.packages("mdsToyCG")
+devtools::install_github("cgostic/mdsToyCG")
 ```
 
 ### Quick demo
